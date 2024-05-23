@@ -1,7 +1,9 @@
 # Titanic
 Machine Learning
 
-| DESCRIPTION |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                            DESCRIPTION                                                                                |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Titanic Machine Learning from Disaster Goal:
 Your objective is to predict which passengers survived the tragic sinking of the Titanic. You'll achieve this by building a machine learning model that analyzes historical data about the passengers.
 Data Provided:
